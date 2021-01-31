@@ -1,5 +1,5 @@
 {
-  "name": "linkit",
+  "name": "linkme",
   "version": "0.2.0",
   "description": "\"Simple plugin to convert any element into a link\"",
   "main": "inedx.html",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/strozilla/jquery.linkit/issues"
   },
-  "homepage": "https://github.com/strozilla/jquery.linkit#readme"
+  "homepage": "https://github.com/strozilla/jquery.linkit#readme",
+  "dependencies": {
+    "jquery.linkme": "^0.2.0"
+  }
 }

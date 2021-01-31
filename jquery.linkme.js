@@ -1,11 +1,11 @@
 /*
-* name: LinkIt
+* name: LinkMe
 * author: Mike Castro
 * version: 0.1.0
 *license: MIT
 */
 
-    $.fn.linkIt = function(options) {
+    $.fn.linkMe = function(options) {
         // defult settings
         var settings = $.extend({
             href        :null,
@@ -14,7 +14,7 @@
         }, options);
 // Validation
         if(settings.href === null) {
-            console.log('You need an href option for LinkIt to work');
+            console.log('You need an href option for LinkMe to work');
             return this;
         }
 
