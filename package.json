@@ -1,6 +1,6 @@
 {
   "name": "linkit",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "\"Simple plugin to convert any element into a link\"",
   "main": "inedx.html",
   "scripts": {
