@@ -1,11 +1,11 @@
 /*
-* name: LinkMe
+* name: LinkZilla
 * author: Mike Castro
 * version: 0.1.0
 *license: MIT
 */
 
-    $.fn.linkMe = function(options) {
+    $.fn.linkZilla = function(options) {
         // defult settings
         var settings = $.extend({
             href        :null,
